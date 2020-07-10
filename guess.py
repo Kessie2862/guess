@@ -10,7 +10,7 @@ guess_count = 0
 # Variable to store maximum number of guesses
 guess_limit = 3
 
-# While loop to ask a user to make a guess
+# While loop to repeatedly ask a user to make a guess
 while guess_count < guess_limit:
     # Get user input and store in a variable
     # The int function converts user input i.e string to an integer 
